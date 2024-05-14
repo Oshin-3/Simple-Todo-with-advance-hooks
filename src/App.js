@@ -7,7 +7,8 @@ import TodoReduced from './components/TodoReduced';
 function App() {
   return (
     <div className="App">
-    <Todo/>
+    {/* <Todo/> */}
+    <List />
     </div>
   );
 }
